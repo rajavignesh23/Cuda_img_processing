@@ -1,0 +1,3 @@
+/mnt/c/cuda_img_denoising/img-processing-cuda/src/gpu/build/CMakeFiles/main.dir
+/mnt/c/cuda_img_denoising/img-processing-cuda/src/gpu/build/CMakeFiles/edit_cache.dir
+/mnt/c/cuda_img_denoising/img-processing-cuda/src/gpu/build/CMakeFiles/rebuild_cache.dir
